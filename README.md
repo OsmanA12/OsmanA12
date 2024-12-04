@@ -25,3 +25,9 @@ Always eager to learn and collaborate on exciting projects!
 # Socials
 
 [LinkedIn](https://www.linkedin.com/in/osman-albakri-a8a57a292/)
+
+![Osmana12's Stats](https://github-readme-stats.vercel.app/api?username=Osmana12&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
+
+![Osmana12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osmana12&theme=vue-dark&hide_border=false)
+
+![Osmana12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osmana12&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
