@@ -24,4 +24,4 @@ Always eager to learn and collaborate on exciting projects!
 
 # Socials
 
-https://www.linkedin.com/in/osman-albakri-a8a57a292/
+[LinkedIn](https://www.linkedin.com/in/osman-albakri-a8a57a292/)
